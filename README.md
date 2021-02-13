@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naresh-mali
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Computer Science Engineerinr
+- 🌱 I’m currently learning Computer Science Engineering
 - 💞️ I’m looking to collaborate on Instagram & Linkedin
 - 📫 reach me at @nareshmali302@gmail.com
 
