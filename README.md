@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **ASP.Net Core**
 
-- 👨‍💻 All of my projects are available at [https://naresh-mali.github.io/nareshmali.github.io/](https://naresh-mali.github.io/nareshmali.github.io/)
+- 👨‍💻 All of my projects are available at [https://naresh-mali.github.io/](https://naresh-mali.github.io/)
 
 - 💬 Ask me about **ASP.Net MVC , WebAPI , POSTMAN , Microsoft SQL Server**
 
 - 📫 How to reach me **nareshmali302@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/naresh-mali/nareshmali.github.io/blob/master/img/Naresh_Mali_resume.pdf](https://github.com/naresh-mali/nareshmali.github.io/blob/master/img/Naresh_Mali_resume.pdf))
+- 📄 Know about my experiences [https://naresh-mali.github.io/img/Naresh_Mali_resume.pdf](https://naresh-mali.github.io/img/Naresh_Mali_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
